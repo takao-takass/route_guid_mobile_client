@@ -1,3 +1,9 @@
+# 現在の状況
+- Flutterチュートリアルをやっている。
+    - 「５：アプリを美しくする」を進行中
+    - https://codelabs.developers.google.com/codelabs/flutter-codelab-first?hl=ja#4
+        - 「UI を中央に寄せる」セクションから再開
+
 # route_guid_mobile_client
 
 A new Flutter project.
